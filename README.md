@@ -1,4 +1,4 @@
-# Create-A-Role-In-Google-Cloud-IAM
+# Create A Role In Google Cloud IAM
 
 <h2 id="step1">Overview</h2>
 <strong>IAM</strong>, or <strong>Identity and Access Management</strong>, is a collection of processes and technologies that help organizations manage digital identities in their environment. With IAM, access control is managed by defining the identity of users and their roles in relation to available resources
